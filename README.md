@@ -5,6 +5,8 @@ Tool: Seurat (R) | Environment: RStudio
 Overview
 This analysis explores 10X Xenium spatial transcriptomics data from a human breast ductal carcinoma in situ (DCIS) tissue slide. DCIS is a pre-invasive form of breast carcinoma in which 25–60% of untreated cases progress to invasive ductal carcinoma (IDC). A key clinical challenge is distinguishing progressive from non-progressive DCIS to avoid over- or under-treatment.
 The analysis focuses on the role of myoepithelial cells (MECs), which form a protective barrier around ductal structures in normal breast tissue. Disruption of this layer is associated with increased risk of DCIS progression to invasion.
+The analysis along with code and figures is available @  https://parulkuls26.github.io/Spatial-Transcriptomics-Analysis-of-Breast-DCIS-10X-Xenium-R-Seurat/
+
 
 Aims
 
@@ -53,7 +55,8 @@ Wilcoxon test confirms the spatial association is statistically significant
 Findings are consistent with the known role of myoepithelial cells as a protective monolayer around ductal structures
 
 Repository Contents
-Xenium-DCIS-analysis.html — Full analysis including all code, outputs, and spatial figures.
+Xenium-DCIS-analysis.html — Full analysis including all code, outputs, and spatial figures.  https://parulkuls26.github.io/Spatial-Transcriptomics-Analysis-of-Breast-DCIS-10X-Xenium-R-Seurat/
+
 
 Reference
 Janesick A et al. High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis. Nature Communications. 2023;14:8353.
